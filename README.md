@@ -1,2 +1,5 @@
+[![DOI](https://zenodo.org/badge/1232564417.svg)](https://doi.org/10.5281/zenodo.20078443)
+
 # avian_responses_to_cloudline
-This repository contains all the collected data during field work which were used to analyse data for the manuscript named as Avia responses to cloudline along an elevational gradient of a tropical island. 
+
+This repository contains collected data and analysis code used for the manuscript titled "Avian responses to cloudline along an elevational gradient of a tropical island" 
